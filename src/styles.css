@@ -1,0 +1,16 @@
+html,
+body {
+  font-family: Raleway, sans-serif;
+  margin: 0;
+  text-align: center;
+  background: #1b1523 !important;
+  color: #fff;
+}
+
+.MuiPagination-ul li button {
+  color: white;
+}
+
+.MuiPaginationItem-ellipsis {
+  color: white !important;
+}
